@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/foundation</content-type>
+	<display-template>/templates/web/pages/foundation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e8e4</objectGroupId>
+	<objectId>e8e47427-0c8d-9cd5-fe12-c3c18a0ee9a0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>foundation</folder-name>
+	<internal-name>foundation</internal-name>
+	<navLabel>foundation</navLabel>
+	<localeCode>en</localeCode>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>9000</orderDefault_f>
+	<createdDate>2021-06-21T21:02:29.255Z</createdDate>
+	<createdDate_dt>2021-06-21T21:02:29.255Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T21:02:29.255Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T21:02:29.255Z</lastModifiedDate_dt>
+</page>
