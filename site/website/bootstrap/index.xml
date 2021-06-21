@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/bootstrap</content-type>
+	<content-type>/page/bootstrap</content-type>
+	<display-template>/templates/web/pages/bootstrap.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f36c</objectGroupId>
+	<objectId>f36c0d5f-1cd3-fca7-5e03-178037775d1a</objectId>
+	<localeCode>en</localeCode>
+	<internal-name>bootstrap</internal-name>
+	<navLabel>bootstrap</navLabel>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>7000</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>bootstrap</folder-name>
+	<createdDate>2021-06-21T20:55:52.472Z</createdDate>
+	<createdDate_dt>2021-06-21T20:55:52.472Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T20:55:52.472Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T20:55:52.472Z</lastModifiedDate_dt>
+</page>
