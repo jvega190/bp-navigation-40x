@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/materialize</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4282</objectGroupId>
+	<objectId>42826633-02ca-45dc-126a-dcf16ce51868</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>materialize</folder-name>
+	<localeCode>en</localeCode>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>10000</orderDefault_f>
+	<internal-name>materialize</internal-name>
+	<navLabel>materialize</navLabel>
+	<createdDate>2021-06-21T21:03:30.648Z</createdDate>
+	<createdDate_dt>2021-06-21T21:03:30.648Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T21:03:30.648Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T21:03:30.648Z</lastModifiedDate_dt>
+</page>
