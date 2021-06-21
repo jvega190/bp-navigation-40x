@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/groundwork</content-type>
+	<display-template>/templates/web/pages/groundwork.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>162f</objectGroupId>
+	<objectId>162fc92a-a71b-cfb2-1310-0f8d94c5826d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>groundwork</folder-name>
+	<internal-name>groundwork</internal-name>
+	<navLabel>groundwork</navLabel>
+	<localeCode>en</localeCode>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>11000</orderDefault_f>
+	<createdDate>2021-06-21T22:32:47.248Z</createdDate>
+	<createdDate_dt>2021-06-21T22:32:47.248Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T22:32:47.248Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T22:32:47.248Z</lastModifiedDate_dt>
+</page>
