@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
 	<content-type>/page/materialize</content-type>
-	<display-template/>
+	<display-template>/templates/web/pages/materialize.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4282</objectGroupId>
@@ -15,6 +15,6 @@
 	<navLabel>materialize</navLabel>
 	<createdDate>2021-06-21T21:03:30.648Z</createdDate>
 	<createdDate_dt>2021-06-21T21:03:30.648Z</createdDate_dt>
-	<lastModifiedDate>2021-06-21T21:03:30.648Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-21T21:03:30.648Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T21:04:14.851Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T21:04:14.851Z</lastModifiedDate_dt>
 </page>
