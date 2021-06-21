@@ -15,7 +15,7 @@
 <property>
 <name>display-template</name>
 <label>Display Template</label>
-<value></value>
+<value>/templates/web/pages/bootstrap.ftl</value>
 <type>template</type>
 </property>
 <property>
