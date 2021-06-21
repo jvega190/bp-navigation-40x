@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/bulma</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>00ef</objectGroupId>
+	<objectId>00ef4645-fa92-816b-7831-85f7a7d5fdaf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>bulma</folder-name>
+	<localeCode>en</localeCode>
+	<internal-name>bulma</internal-name>
+	<navLabel>bulma</navLabel>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>8000</orderDefault_f>
+	<createdDate>2021-06-21T20:58:06.524Z</createdDate>
+	<createdDate_dt>2021-06-21T20:58:06.524Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T20:58:06.524Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T20:58:06.524Z</lastModifiedDate_dt>
+</page>
