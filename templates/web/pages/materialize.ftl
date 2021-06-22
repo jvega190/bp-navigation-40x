@@ -16,6 +16,26 @@
 <body>
 <@crafter.body_top/>
 
+<h1>Docs</h1>
+<a href="https://materializecss.com/navbar.html" target="_blank">https://materializecss.com/navbar.html</a>
+
+<h1>Right aligned</h1>
+
+<nav>
+  <div class="nav-wrapper">
+    <a href="#" class="brand-logo">Logo</a>
+    <@crafter.navigation url="/site/website" containerElementClass="right hide-on-med-and-down" showNavElement=false/>
+  </div>
+</nav>
+
+<h1>Left aligned - no logo</h1>
+
+<@crafter.navigation
+  url="/site/website"
+  containerElementClass="left hide-on-med-and-down"
+  navElementClass="nav-wrapper"
+/>
+
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 

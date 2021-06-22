@@ -16,7 +16,7 @@
       <header class="major">
         <h2>Menu</h2>
       </header>
-      <@crafter.navigation url="/site/website" includeRoot=true />
+      <@crafter.navigation url="/site/website" showNavElement=false />
     </nav>
 
     <!-- Widgets -->

@@ -15,7 +15,20 @@
 <body>
 <@crafter.body_top/>
 
-<h1>Hello, world!</h1>
+<h1>Docs</h1>
+<a href="https://get.foundation/sites/docs/menu.html#nested-style" target="_blank">https://get.foundation/sites/docs/menu.html#nested-style</a>
+
+<h1>Basic Menu</h1>
+<@crafter.navigation url="/site/website" containerElementClass="menu" showNavElement=false />
+
+<h1>Item Alignment</h1>
+<@crafter.navigation url="/site/website" containerElementClass="menu align-right" showNavElement=false />
+
+<h1>Vertical Menu</h1>
+<@crafter.navigation url="/site/website" containerElementClass="vertical menu" showNavElement=false />
+
+<h1>Nested</h1>
+<@crafter.navigation url="/site/website" containerElementClass="vertical menu" depth=2 subItemWrapperClass="nested vertical menu" showNavElement=false />
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- Compressed JavaScript -->
