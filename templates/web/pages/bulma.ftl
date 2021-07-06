@@ -50,6 +50,18 @@
         />
       </div>
     </nav>
+
+    <h1>Breadcrumb</h1>
+
+    <#--    <nav class="breadcrumb is-centered is-right" aria-label="breadcrumbs">-->
+    <#--    https://bulma.io/documentation/components/breadcrumb/#alternative-separators -->
+    <#--    https://bulma.io/documentation/components/breadcrumb/#sizes-->
+    <@crafter.breadcrumb
+      url=contentModel.storeUrl
+      navElementClass="breadcrumb has-arrow-separator"
+      itemWrapperActiveClass="is-active"
+      includeLinkInActiveItem=true
+    />
   </div>
 </section>
 

@@ -36,6 +36,23 @@
   navElementClass="nav-wrapper"
 />
 
+<h1>Breadcrumb</h1>
+
+<#-- https://materializecss.com/breadcrumbs.html -->
+<nav>
+  <div class="nav-wrapper">
+    <@crafter.breadcrumb
+      url=contentModel.storeUrl
+      showNavElement=false
+      containerElement="div"
+      containerElementClass="col s12"
+      itemWrapperElement=""
+      itemClass="breadcrumb"
+      includeLinkInActiveItem=true
+    />
+  </div>
+</nav>
+
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 

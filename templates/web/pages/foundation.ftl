@@ -30,6 +30,17 @@
 <h1>Nested</h1>
 <@crafter.navigation url="/site/website" containerElementClass="vertical menu" depth=2 subItemWrapperClass="nested vertical menu" showNavElement=false />
 
+
+<h1>Breadcrumb</h1>
+
+<#-- https://get.foundation/sites/docs/breadcrumbs.html -->
+<@crafter.breadcrumb
+  url=contentModel.storeUrl
+  containerElementClass="breadcrumbs"
+  itemWrapperClass="breadcrumb-item"
+  navElementAttributes={'role': 'navigation'}
+/>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- Compressed JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/js/foundation.min.js" integrity="sha256-pRF3zifJRA9jXGv++b06qwtSqX1byFQOLjqa2PTEb2o=" crossorigin="anonymous"></script>
